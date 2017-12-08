@@ -1,6 +1,6 @@
 theme: jekyll-theme-primer
-title: Support Vector Olives
-description: Keeping Italian Olives Pure!
+title: Crime in the USA - Context
+description: Analysing data to determine demographic context of crimes
 baseurl:
 markdown: kramdown
 kramdown:
