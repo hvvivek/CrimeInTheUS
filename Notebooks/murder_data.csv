@@ -1,0 +1,407 @@
+,msa,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,msa_name,msa_state,code
+0,"Abilene, TX",3.7,6.3,4.4,4.4,3.1,3,1.8,0.6,5.9,5.3,6.5,Abilene,TX,10180
+1,"Albuquerque, NM",8.9,8.2,7.6,7.9,5.8,5,5.9,5.9,4.8,6.1,8.3,Albuquerque,NM,10740
+2,"Altoona, PA",0.8,2.4,3.2,2.4,0.8,1.6,4.7,1.6,0.8,0.8,0.8,Altoona,PA,11020
+3,"Amarillo, TX",2.9,7.8,6.1,5.3,5.7,4.7,4.2,3.5,3.8,3.4,5.3,Amarillo,TX,11100
+4,"Ames, IA",0,2.5,5.8,0,1.1,0,0,0,0,1,1,Ames,IA,11180
+5,"Anchorage, AK",5.8,7.2,3.3,4.6,4.2,4.2,4.8,4.8,4.1,8.2,8.9,Anchorage,AK,11260
+6,"Ann Arbor, MI",2.6,1.7,3.1,1.7,1.4,2.3,1.4,3.1,1.4,1.9,0.6,Ann Arbor,MI,11460
+7,"Appleton, WI",0.9,0.5,0.9,1.4,0,0.9,0.4,0.4,0,0.4,1.7,Appleton,WI,11540
+8,"Athens-Clarke County, GA",5,6.4,2.6,5.8,4.2,3.1,3.1,1,2,2.5,2.9,Athens-Clarke County,GA,12020
+9,"Bangor, ME",2,2.1,1.3,2.7,2,4.5,5.2,3.9,2.6,2,0,Bangor,ME,12620
+10,"Barnstable Town, MA",1.8,0.9,0.9,1.8,0.5,1.4,0.5,0.9,1.4,1.4,0.5,Barnstable Town,MA,12700
+11,"Bay City, MI",1.8,3.7,2.8,2.8,0.9,2.8,0.9,1.9,1.9,0,2.9,Bay City,MI,13020
+12,"Beaumont-Port Arthur, TX",4.6,7.7,4.8,5,5.6,6.6,5.8,8.6,8.1,6.9,6.6,Beaumont-Port Arthur,TX,13140
+13,"Billings, MT",2,1.3,2,2,1.9,1.9,1.9,2.4,7.2,5.9,1.8,Billings,MT,13740
+14,"Binghamton, NY",2.4,1.6,0.8,7,2.5,1.2,2.8,3.2,1.6,2.8,2.5,Binghamton,NY,13780
+15,"Bismarck, ND",2,1,1.9,2.8,1.8,2.7,3.3,2.4,2.4,3.1,2.3,Bismarck,ND,13900
+16,"Bloomington, IN",2.2,2.2,2.2,1.6,2.1,3.1,2.5,1.8,0.6,1.8,3,Bloomington,IN,14020
+17,"Bowling Green, KY",4.5,0.9,0,2.5,0,2.4,2.5,1.2,0.6,0.6,3.5,Bowling Green,KY,14540
+18,"Bremerton-Silverdale, WA",1.2,0.4,2.1,1.7,0.4,1.2,1.9,0.8,2.7,3.1,0.4,Bremerton-Silverdale,WA,14740
+19,"Brownsville-Harlingen, TX",3.1,4,3.3,2,2.7,1.9,3.1,1.4,1.2,1.6,1.9,Brownsville-Harlingen,TX,15180
+20,"Burlington, NC",4.2,6.2,2.7,2.7,5.9,2,2.6,1.9,1.9,5.1,6.9,Burlington,NC,15500
+21,"Cape Coral-Fort Myers, FL",8.7,8,7.6,6.6,4.5,6.1,7,3.8,6.6,4.4,5.7,Cape Coral-Fort Myers,FL,15980
+22,"Carson City, NV",3.5,1.8,0,0,0,7.2,0,7.3,1.8,1.8,1.8,Carson City,NV,16180
+23,"Casper, WY",2.8,5.6,1.4,0,3.9,2.6,3.9,3.8,3.7,1.2,0,Casper,WY,16220
+24,"Cedar Rapids, IA",2.8,1.2,2,0.4,0.8,0.8,1.5,1.5,3.8,3,1.9,Cedar Rapids,IA,16300
+25,"Charlottesville, VA",2.1,2.6,4.6,0.5,3,2.9,2.7,1.8,4,1.3,1.3,Charlottesville,VA,16820
+26,"Cheyenne, WY",2.3,1.2,3.4,4.5,0,2.2,2.1,1,3.1,7.2,8.2,Cheyenne,WY,16940
+27,"Chico, CA",5.1,4.2,3.2,4.5,3.2,3.6,4.9,5.8,4.9,3.1,1.8,Chico,CA,17020
+28,"Clarksville, TN-KY",4.9,5.7,2.6,7.5,5.9,4,6.4,5,6.2,6,6.7,Clarksville,"TN,KY",17300
+29,"Cleveland, TN",0.9,2.7,2.7,2.6,0,6,4.2,0.8,1.7,6.6,2.5,Cleveland,TN,17420
+30,"College Station-Bryan, TX",4.1,3.6,4.9,2.4,3.7,2.1,2.6,2.1,2.1,4.5,2,College Station-Bryan,TX,17780
+31,"Colorado Springs, CO",3,4.9,5,3.3,3.7,4.7,3,6.2,3.3,3.7,4.5,Colorado Springs,CO,17820
+32,"Columbia, MO",1.9,3.2,4.3,1.8,2.4,2.3,1.8,2.9,3.5,3.4,3.4,Columbia,MO,17860
+33,"Columbus, GA-AL",6.8,10,12.4,5.6,7,8,6.2,9.5,9,6.9,10.4,Columbus,"GA,AL",17980
+34,"Columbus, IN",4.1,2.7,2.7,0,0,1.3,1.3,6.2,0,1.2,0,Columbus,IN,18020
+35,"Corpus Christi, TX",5.9,5.5,5.1,3.6,5,4.1,5.3,5.4,6.7,5.1,7.7,Corpus Christi,TX,18580
+36,"Cumberland, MD-WV",1,1,5.1,2,5,5.8,3.9,3.9,3,4,6.1,Cumberland,"MD,WV",19060
+37,"Dalton, GA",1.5,2.2,0.7,1.5,3.8,1.4,2.8,1.4,2.8,2.1,0,Dalton,GA,19140
+38,"Dayton, OH",5.3,4.7,5.2,5.6,4.9,6.1,3.9,5.5,4.2,4.6,7.9,Dayton,OH,19380
+39,"Decatur, AL",4.7,0,4,1.3,2.6,1.9,1.3,4.5,1.3,3.9,3.3,Decatur,AL,19460
+40,"Deltona-Daytona Beach-Ormond Beach, FL",4.2,4,3,3.8,3.4,4.4,3.3,4.3,2,3.9,3,Deltona-Daytona Beach-Ormond Beach,FL,19660
+41,"Des Moines-West Des Moines, IA",1.5,1.3,2.9,1.2,1.6,1.6,1.4,2.3,1.8,3.4,4,Des Moines-West Des Moines,IA,19780
+42,"Dover, DE",5.5,3.3,5.1,2.5,3.7,4.3,2.4,2.4,2.9,6.3,3.4,Dover,DE,20100
+43,"Dubuque, IA",0,1.1,0,2.2,0,1.1,2.1,0,0,5.2,2,Dubuque,IA,20220
+44,"Duluth, MN-WI",1.4,1.5,1.5,1.8,1.4,1.1,1.4,1.4,2.5,1.4,1.1,Duluth,"MN,WI",20260
+45,"El Centro, CA",1.9,2.5,4.9,1.8,1.8,1.7,1.7,1.1,1.7,1.1,1.7,El Centro,CA,20940
+46,"El Paso, TX",3,2.7,2.6,2.1,0.9,2.2,3.3,1.4,3.2,2.7,2.7,El Paso,TX,21340
+47,"Elmira, NY",2.2,3.4,4.6,4.6,4.6,1.1,4.5,0,1.1,2.3,3.5,Elmira,NY,21300
+48,"Erie, PA",1.4,1.8,3.2,3.6,4.6,2.8,3.9,1.4,4.6,4,4,Erie,PA,21500
+49,"Fairbanks, AK",3,15.1,8,0,0,5.8,8.7,0,11.5,2.9,20.2,Fairbanks,AK,21820
+50,"Fargo, ND-MN",1.1,1.6,0,1,1,0.5,0.9,1.8,2.2,2.6,2.1,Fargo,"ND,MN",22020
+51,"Farmington, NM",3.1,12.5,6.5,2.4,3.2,3.8,4.7,4.7,4,4.1,1.7,Farmington,NM,22140
+52,"Flagstaff, AZ",2.3,2.4,2.3,4.7,4.8,3.7,2.9,2.2,5.8,2.2,2.1,Flagstaff,AZ,22380
+53,"Flint, MI",15.4,8.4,8.6,10.3,13.8,15,16.3,13.7,7.7,12.9,13.2,Flint,MI,22420
+54,"Fond du Lac, WI",1,0,1,2,1,2,0,1,2,1,1,Fond du Lac,WI,22540
+56,"Fort Smith, AR-OK",5.9,2.7,2.4,3.4,4.7,3,2.8,2.1,2.1,3.2,5,Fort Smith,"AR,OK",22900
+57,"Fort Wayne, IN",4.7,6.3,6.1,5.3,6,6.2,5.7,8,3,6.5,11.4,Fort Wayne,IN,23060
+58,"Fresno, CA",8.4,8.1,7.2,7.5,6.8,5.5,8,6,6.1,6.1,6.4,Fresno,CA,23420
+59,"Gainesville, FL",5.7,2.9,2.3,2.7,4.9,4.9,3.7,3.7,4,1.4,1.8,Gainesville,FL,23540
+60,"Glens Falls, NY",1.6,3.9,1.5,0,0,9.3,5.4,0.8,0,0.8,1.6,Glens Falls,NY,24020
+61,"Goldsboro, NC",6,16.5,9.7,12.3,7,8.1,16,6.4,5.6,8.8,8.8,Goldsboro,NC,24140
+62,"Grand Forks, ND-MN",2.1,2.1,1,0,1,0,1,1,1,2.9,1,Grand Forks,"ND,MN",24220
+63,"Grand Junction, CO",4.5,1.5,4.9,1.4,2,2,3.4,2.7,2,1.3,6,Grand Junction,CO,24300
+64,"Great Falls, MT",2.5,2.5,2.4,8.5,4.8,2.4,1.2,0,0,7.3,4.8,Great Falls,MT,24500
+65,"Greeley, CO",1.7,2.8,2.4,2.7,1.2,2.3,2.3,0.7,1.8,1.8,1.4,Greeley,CO,24540
+66,"Green Bay, WI",0.7,1.3,0.7,1.6,1,0.7,2.3,0.6,1,1.3,2.5,Green Bay,WI,24580
+67,"Harrisonburg, VA",4.4,0,1.7,1.7,0.8,1.6,0.8,0.8,2.3,0.8,2.3,Harrisonburg,VA,25500
+68,"Hartford-West Hartford-East Hartford, CT",3.8,4.6,4.2,4.6,4.5,3.5,3.6,3.4,3.8,4.4,2.3,Hartford-West Hartford-East Hartford,CT,25540
+69,"Huntsville, AL",5.4,8.1,4.8,5.2,5.3,4.5,5.1,6.2,5.2,6.1,4.9,Huntsville,AL,26620
+70,"Idaho Falls, ID",1.7,0.8,1.6,1.6,2.3,4.5,0,2.2,0,1.4,0.7,Idaho Falls,ID,26820
+71,"Iowa City, IA",0,0,5.4,1.3,1.3,2,1.3,0,0.6,0.6,0,Iowa City,IA,26980
+72,"Jackson, TN",12.5,10.5,8.8,13.2,4.4,7.7,9.9,8.4,9.2,6.9,5.4,Jackson,TN,27180
+73,"Jacksonville, FL",10.6,10.8,9.7,9.1,7.2,6.4,8,7.1,7.6,7.5,8.5,Jacksonville,FL,27260
+74,"Johnson City, TN",5.7,2.1,1.5,5.6,2.5,3,2.5,3.5,3,5.5,2.5,Johnson City,TN,27740
+75,"Jonesboro, AR",5.3,4.4,6,2.5,4.1,3.3,4.9,1.6,7.1,3.9,5.4,Jonesboro,AR,27860
+76,"Kingsport-Bristol-Bristol, TN-VA",3.9,2.6,5.3,3.3,4.6,2.9,2.9,1.6,4.9,3.6,2.6,Kingsport-Bristol-Bristol,"TN,VA",28700
+77,"Kingston, NY",2.7,1.6,3.3,0.5,1.1,1.1,0.5,1.7,2.8,0,2.2,Kingston,NY,28740
+78,"Knoxville, TN",5.1,5.6,5.8,4.4,5,4.8,4,3.6,3.3,3.4,4.3,Knoxville,TN,28940
+79,"Kokomo, IN",4.9,1,3,1,3,5,4.8,2.4,3.6,3.6,7.3,Kokomo,IN,29020
+80,"Lancaster, PA",4.5,2.4,1.4,2.4,1.8,1.3,2.9,1.7,2.4,3,1.5,Lancaster,PA,29540
+81,"Lansing-East Lansing, MI",2.4,4.6,2.9,2.6,2.7,3.9,3.4,3.2,3.2,3.6,3.4,Lansing-East Lansing,MI,29620
+82,"Laredo, TX",10.4,5.5,4.6,7,4.5,4.3,3.1,1.5,5.6,2.9,4.4,Laredo,TX,29700
+83,"Las Cruces, NM",2.6,5.1,4.5,3.4,4.2,3.3,3.3,3.7,5.1,2.8,5.1,Las Cruces,NM,29740
+84,"Lawton, OK",7.1,9.2,5.3,8,4.4,6.4,9.8,9.7,8.4,7.6,3.1,Lawton,OK,30020
+85,"Lebanon, PA",3.2,0.8,1.6,6.1,3.8,0.7,2.2,1.5,5.2,2.9,2.2,Lebanon,PA,30140
+86,"Lewiston-Auburn, ME",0.9,3.7,1.9,0,2.8,3.7,0,0.9,1.9,0,0,Lewiston-Auburn,ME,30340
+87,"Lexington-Fayette, KY",2.3,4.5,3.3,3,4.6,3.6,3.7,4.9,4.5,4,4.9,Lexington-Fayette,KY,30460
+88,"Lima, OH",9.4,1.9,1.9,5.7,3.9,1.9,7.5,2.9,4.8,2.9,7.7,Lima,OH,30620
+89,"Lincoln, NE",1.8,2.8,2,1.3,0.7,1.3,1.3,1.6,2.2,0.3,3.1,Lincoln,NE,30700
+90,"Little Rock-North Little Rock-Conway, AR",14.3,13.2,9.5,7.4,6.3,9.8,9.1,7.7,8.4,8.6,10,Little Rock-North Little Rock-Conway,AR,30780
+91,"Longview, WA",7.1,3,2,1,1.9,3.8,3.9,1,0,2,1.9,Longview,WA,31020
+93,"Lubbock, TX",5.3,5.7,3.3,5.1,3.6,3.8,4,3,4.6,5.5,2.9,Lubbock,TX,31180
+94,"Lynchburg, VA",2.9,2.5,3.3,2,6.4,2.3,2.3,1.9,5.4,3.5,4.6,Lynchburg,VA,31340
+95,"Madison, WI",0.7,2,2.5,1.9,0.9,1.8,2.4,1.8,2.1,2.7,2,Madison,WI,31540
+96,"Mansfield, OH",2.3,5.5,2.4,2.4,3.2,2.4,2.4,0.8,3.3,2.5,5,Mansfield,OH,31900
+97,"McAllen-Edinburg-Mission, TX",4.6,5.1,7,5.4,4.6,4.4,3.7,2.7,3.1,3.8,2.6,McAllen-Edinburg-Mission,TX,32580
+98,"Medford, OR",1.5,1.5,1,1,1.5,4.9,1.9,1.9,1.4,2.3,2.3,Medford,OR,32780
+99,"Memphis, TN-MS-AR",13.7,11.9,12.6,12.1,8.6,10.6,11.5,10.3,12.8,11.5,18.5,Memphis,"TN,MS,AR",32820
+100,"Merced, CA",9,6.8,8.4,10.4,10.5,5.4,8.8,10.2,10.9,10.1,2.2,Merced,CA,32900
+102,"Midland, TX",4,3.2,3.1,2.3,2.2,4.3,3.4,3.9,4.9,5.4,1.7,Midland,TX,33260
+103,"Milwaukee-Waukesha-West Allis, WI",7.4,7.3,4.9,5.2,6.4,5.9,6.9,7,6.3,9.8,9.9,Milwaukee-Waukesha-West Allis,WI,33340
+104,"Minneapolis-St. Paul-Bloomington, MN-WI",3.5,2.8,2.7,1.7,2.4,1.8,2.2,2.5,1.8,2.7,2.2,Minneapolis-St. Paul-Bloomington,"MN,WI",33460
+105,"Mobile, AL",11.6,15.3,16,8.8,7.4,11.3,11.1,9.7,9.4,10.6,14.7,Mobile,AL,33660
+106,"Modesto, CA",5.7,5.2,6,8.9,5.6,6.5,7.3,6.3,6,7.3,6.3,Modesto,CA,33700
+107,"Mount Vernon-Anacortes, WA",1.7,1.7,7.6,2.5,0,2.5,1.7,3.4,2.5,2.5,4.9,Mount Vernon-Anacortes,WA,34580
+108,"Napa, CA",1.5,4.5,0.8,0.7,1.5,2.2,1.4,1.4,3.5,2.1,0.7,Napa,CA,34900
+109,"Ocala, FL",4.9,4.3,6.7,3.6,2.7,4.2,6.2,5,5.6,2.9,5.2,Ocala,FL,36100
+110,"Ocean City, NJ",1,1,0,1.1,2.1,1,2.1,0,0,1.1,0,Ocean City,NJ,36140
+111,"Odessa, TX",2.3,6.2,7.6,5.2,5.2,7.9,3.5,2,11.1,7.6,4.3,Odessa,TX,36220
+112,"Ogden-Clearfield, UT",1.8,1,1.7,1.3,1.5,1.4,0.7,1.3,1.7,2.3,1.4,Ogden-Clearfield,UT,36260
+113,"Oklahoma City, OK",7,6.5,6.3,6.8,5.7,6.2,8,5.9,5.2,6.8,6.7,Oklahoma City,OK,36420
+114,"Omaha-Council Bluffs, NE-IA",4.8,5.7,6,3.9,4.5,5.8,4.9,5.3,4.1,5.5,3.9,Omaha-Council Bluffs,"NE,IA",36540
+115,"Oxnard-Thousand Oaks-Ventura, CA",3.6,2.1,3.9,3.6,2.2,1.8,2.5,4,2.4,2.8,3.6,Oxnard-Thousand Oaks-Ventura,CA,37100
+116,"Palm Bay-Melbourne-Titusville, FL",4.1,5.9,4.1,4.8,3.7,2.7,5.4,3.6,3.4,4.3,3.5,Palm Bay-Melbourne-Titusville,FL,37340
+117,"Pensacola-Ferry Pass-Brent, FL",3.1,5.4,5.3,4,7.6,4,4.8,6.2,7,5.8,5.2,Pensacola-Ferry Pass-Brent,FL,37860
+118,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",9.5,9.5,9.1,7.3,7.8,8.1,8.6,7.1,7,7.4,7.9,Philadelphia-Camden-Wilmington,"PA,NJ,DE,MD",37980
+119,"Pittsburgh, PA",4.4,4.3,5.2,4.7,4.7,3.8,4.2,4.1,5.4,4.7,5.1,Pittsburgh,PA,38300
+120,"Pittsfield, MA",1.5,0.8,1.5,1.5,0.8,3,0,0.8,0,3.1,2.4,Pittsfield,MA,38340
+121,"Port St. Lucie, FL",4.9,3.7,3.2,4.1,4.8,5.1,2.5,3.4,6.1,3.1,4.1,Port St. Lucie,FL,38940
+122,"Punta Gorda, FL",1.2,6.5,2,2,0.6,1.2,0.6,0.6,1.2,0.6,2.8,Punta Gorda,FL,39460
+123,"Racine, WI",4.1,3.5,5.1,2.5,4,3.6,3.1,1,2.1,2.1,4.1,Racine,WI,39540
+124,"Rapid City, SD",0,3.3,3.3,1.6,3.2,3.1,2.9,1.4,3.5,6.2,3.4,Rapid City,SD,39660
+125,"Reading, PA",3,3.5,3.9,3.9,3.2,4.6,4.6,2.7,2.9,3.6,4.1,Reading,PA,39740
+126,"Redding, CA",4.4,6.1,2.2,1.7,1.6,3.3,3.9,5.6,4.4,2.8,6.7,Redding,CA,39820
+127,"Riverside-San Bernardino-Ontario, CA",6.9,6.4,5,5.1,4.5,4.3,4.1,5,4.6,4.4,5.1,Riverside-San Bernardino-Ontario,CA,40140
+128,"Roanoke, VA",4.7,2.7,6.1,4,6.3,3.2,3.5,5.1,2.2,6.4,5.1,Roanoke,VA,40220
+129,"Rochester, MN",1.1,1.1,2.7,0.5,0.5,0.5,1.4,0,1.4,0.5,0,Rochester,MN,40340
+130,"Rochester, NY",5.4,5.5,4.8,3.6,4.9,4.1,4,4.8,2.9,3.8,4.7,Rochester,NY,40380
+131,"Salem, OR",3.7,1,4.1,1.8,1.3,3,3.3,3.5,2,1.7,4.6,Salem,OR,41420
+132,"Salinas, CA",3.6,7.1,8.9,12.5,10.7,8.1,10.6,10.9,7.8,13.8,12.9,Salinas,CA,41500
+133,"Salt Lake City, UT",2.2,4.1,1.9,1.9,2.9,2.1,2.2,1.8,2.2,2.6,3.9,Salt Lake City,UT,41620
+134,"San Jose-Sunnyvale-Santa Clara, CA",2.3,2.9,2.9,2.5,1.4,3.3,3,3,2.3,2.3,2.9,San Jose-Sunnyvale-Santa Clara,CA,41940
+135,"Santa Cruz-Watsonville, CA",6.4,2.4,3.2,4,5.5,3.8,3.7,4.1,3.3,2.2,1.8,Santa Cruz-Watsonville,CA,42100
+136,"Savannah, GA",9.9,8.6,8.1,9.2,6.5,8.5,7,9.8,9.4,15,13.8,Savannah,GA,42340
+137,"Sebastian-Vero Beach, FL",5.4,1.5,3,5.2,0,3.6,0.7,2.8,4.9,1.4,2.7,Sebastian-Vero Beach,FL,42680
+138,"Sherman-Denison, TX",0.8,3.3,2.5,3.3,9.1,4.1,2.4,5.7,2.4,6.4,4,Sherman-Denison,TX,43300
+139,"Sioux City, IA-NE-SD",0.7,1.4,4.2,2.8,0,1.4,2.4,2.4,3,1.8,1.8,Sioux City,"IA,NE,SD",43580
+140,"Sioux Falls, SD",3.3,1.4,3,0.4,1.2,2.2,0.9,1.2,1.6,1.2,3.9,Sioux Falls,SD,43620
+141,"South Bend-Mishawaka, IN-MI",5.3,4.1,5.7,6,2.5,5,7.5,3.4,6,7.2,5,South Bend-Mishawaka,"IN,MI",43780
+142,"Springfield, MA",3,4.5,2.6,3.4,3.7,3.6,2.1,4.5,2.5,3.5,2.9,Springfield,MA,44140
+143,"Springfield, MO",1.7,2.4,2.6,1.8,3,2.1,5,3.1,4.9,3.3,2.6,Springfield,MO,44180
+144,"Springfield, OH",4.2,3.5,7.1,2.9,2.9,2.2,3.6,4.4,5.2,8.8,3.7,Springfield,OH,44220
+145,"St. Joseph, MO-KS",1.6,1.6,2.4,3.2,5.5,3.1,1.6,1.6,1.6,9.4,7.9,St. Joseph,"MO,KS",41140
+146,"St. Louis, MO-IL",6.6,7.7,8.3,7.4,7.8,7.6,7.3,7.2,8.8,10.5,11.1,St. Louis,"MO,IL",41180
+147,"State College, PA",2.1,0.7,0,1.4,0,0,0.6,0,0,1.3,1.2,State College,PA,44300
+148,"Sumter, SC",9.3,8.5,12.5,11.5,5.7,15.6,11.1,6.4,6.4,6.5,3.7,Sumter,SC,44940
+149,"Syracuse, NY",2.8,4,4.8,3.3,3.4,2.3,2.3,4.2,3.5,4.1,5.3,Syracuse,NY,45060
+150,"Tallahassee, FL",3.2,2.4,4.3,3.6,5.2,4.8,5.9,4.5,4.8,6.6,4.5,Tallahassee,FL,45220
+151,"Tampa-St. Petersburg-Clearwater, FL",4.9,5.3,5.6,3.6,4.3,4.7,3.9,4.3,5.5,4,3.9,Tampa-St. Petersburg-Clearwater,FL,45300
+152,"Toledo, OH",5.6,2.1,3.1,5.4,4,6.1,7.1,4.9,4.6,4.4,7.1,Toledo,OH,45780
+153,"Topeka, KS",5.2,5.2,4.4,8.7,6,6.4,7.6,5.5,3.8,6,9,Topeka,KS,45820
+154,"Tulsa, OK",7.5,7.8,8,8.6,6.4,6.8,5.7,6.7,6.1,8.1,9.2,Tulsa,OK,46140
+155,"Tuscaloosa, AL",11.6,10.5,8.2,6.7,5.1,4.1,5.6,6.8,5.1,4.2,7.5,Tuscaloosa,AL,46220
+156,"Utica-Rome, NY",2.3,3.7,2.7,2.7,2.4,2.7,1.3,5.7,3,2.7,1.4,Utica-Rome,NY,46540
+157,"Vallejo-Fairfield, CA",3.4,7.5,5.9,4.9,8.1,7.2,6.7,7.3,6.3,7.1,5.5,Vallejo-Fairfield,CA,46700
+158,"Visalia-Porterville, CA",11.8,9,10.1,7.2,8,8.9,8.2,9.2,8.3,9.7,7.2,Visalia-Porterville,CA,47300
+159,"Waco, TX",4.3,3.9,6.5,5.6,3.8,5,3.8,2.7,3.8,8.8,2.7,Waco,TX,47380
+160,"Warner Robins, GA",2.3,2.3,6,3,6,3.5,4.3,4.3,4.2,2.6,4.7,Warner Robins,GA,47580
+161,"Washington-Arlington-Alexandria, DC-VA-MD-WV",7.4,7.7,7.5,6,5.3,4.4,3.6,3.7,3.7,5.3,4.5,Washington-Arlington-Alexandria,"DC,VA,MD,WV",47900
+162,"Wausau, WI",3.1,2.3,2.3,1.5,0,0,1.5,1.5,1.5,1.5,0.7,Wausau,WI,48140
+163,"Wichita Falls, TX",6,4.1,4.7,7.5,4.8,0.6,4.6,4.6,2,1.3,8,Wichita Falls,TX,48660
+164,"Williamsport, PA",0.8,2.6,1.7,1.7,1.7,0.9,1.7,5.1,3.4,6,6.1,Williamsport,PA,48700
+165,"Wilmington, NC",4.7,5.6,4.6,2.5,3,4.4,3.8,3.4,12.5,7.2,6,Wilmington,NC,48900
+166,"Winchester, VA-WV",5.1,0.8,1.6,2.4,1.6,2.3,1.5,2.3,1.5,1.5,5.2,Winchester,"VA,WV",49020
+167,"Yuba City, CA",4.4,1.2,6,2.4,4.2,4.7,6.5,4.2,1.2,3.5,7.6,Yuba City,CA,49700
+168,"Aguadilla-Isabela, Puerto Rico",2.5,3.9,6.2,3.8,6.8,9.8,9.3,11,5.9,4.8,7.1,Aguadilla-Isabela,PR,10380
+169,"Akron, OH",3.5,3.6,3.4,4,3.7,4.7,3.8,5.1,4.8,5.1,6,Akron,OH,10420
+170,"Albany, GA",6.5,9.1,7.25,5.4,8.7,10,5.6,5.7,5.8,7.8,11.8,Albany,GA,10500
+171,"Albany, OR",0.4,0.4,0.4,0.4,0.4,0.4,0,0.8,2.5,2.5,0,Albany,OR,10540
+172,"Albany-Schenectady-Troy, NY",2.1,1.5,2.7,2.8,1.5,1.5,2.6,2.7,3.6,2.8,2,Albany-Schenectady-Troy,NY,10580
+173,"Alexandria, LA",7.1,6.7,6.6,6.5,5.8,3.2,5.8,7.8,6.5,4.5,7.8,Alexandria,LA,10780
+174,"Allentown-Bethlehem-Easton, PA-NJ",3.7,4.6,2.8,2.9,3.5,2.8,4.1,2.9,2.2,2.4,2.6,Allentown-Bethlehem-Easton,"PA,NJ",10900
+176,"Anderson, IN",1.95,3.1,1.95,0.8,2.3,1.55,1.55,1.55,1.55,1.55,1.55,Anderson,IN,11300
+177,"Anderson, SC",10.1,2.8,9.9,4.8,5.3,7.9,6.6,6.6,6.6,6.6,6.6,Anderson,SC,11340
+178,"Anniston-Oxford-Jacksonville, AL",5.25,5.25,5.25,5.3,5.2,11.8,5.1,6.8,6,8.7,7,Anniston-Oxford-Jacksonville,AL,11500
+179,"Arecibo, Puerto Rico",16.8,16.8,16.8,16.8,16.8,16.8,19.8,13.8,8.9,6.9,5.4,Arecibo,PR,11640
+180,"Asheville, NC",2.7,5.2,2.2,2.7,1.9,2.8,4.6,3.75,2.9,2.7,5.1,Asheville,NC,11700
+181,"Atlanta-Sandy Springs-Marietta-Roswell, GA",7.4,8.7,7.4,5.9,6.1,6,6.1,5.9,6.1,6.2,6.8,Atlanta-Sandy Springs-Marietta-Roswell,GA,12060
+182,"Atlantic City-Hammonton, NJ",11.1,5.5,7.7,8.8,8,8,10.9,2.9,6.1,6.9,6.5,Atlantic City-Hammonton,NJ,12100
+183,"Auburn-Opelika, AL",5.4,6.3,4.5,6.6,4.35,2.1,5.6,3.8,2,7.85,13.7,Auburn-Opelika,AL,12220
+184,"Augusta-Richmond County, GA-SC",6,7,7.7,7.8,10.2,8.9,8.2,5.5,6.7,7.05,7.4,Augusta-Richmond County,"GA,SC",12260
+185,"Austin-Round Rock-San Marcos, TX",1.9,2.8,2,2.4,3.4,2.9,2.2,2.8,2.4,2.2,3.4,Austin-Round Rock-San Marcos,TX,12420
+186,"Bakersfield-Delano, CA",8.5,6.3,7.1,9.2,9,5.4,7.6,7.1,6.7,7.3,9.9,Bakersfield-Delano,CA,12540
+187,"Baltimore-Columbia-Towson, MD",13.3,13.4,11.3,11.1,10.3,9.4,9.5,10,9.6,13.1,14.1,Baltimore-Columbia-Towson,MD,12580
+188,"Baton Rouge, LA",14.4,17.9,13.4,14,12.95,11.9,11.8,10.2,10.7,11.1,9.5,Baton Rouge,LA,12940
+189,"Battle Creek, MI",7.9,8,3.7,10.4,4.5,5.9,5.2,4.45,3,3,5.2,Battle Creek,MI,12980
+190,"Beckley, WV",8.4,8.4,8.4,8.4,8.4,8.4,11.2,8.4,5.6,6.5,9.9,Beckley,WV,13220
+191,"Bellingham, WA",0.5,1.1,1,4,2.5,1.5,1.9,1.45,1,2.8,1.9,Bellingham,WA,13380
+192,"Bend-Redmond, OR",1.4,0,0,1.2,4.3,1.3,1.55,1.8,0,1.7,1.1,Bend-Redmond,OR,13460
+194,"Birmingham-Hoover, AL",12.5,11.7,10.3,9.3,9.1,8.9,9.4,8.2,7.8,11.1,9.45,Birmingham-Hoover,AL,13820
+195,"Blacksburg-Christiansburg-Radford, VA",5.2,21.2,3.8,5,3.1,1.8,1.1,1.1,4.4,3.6,2.8,Blacksburg-Christiansburg-Radford,VA,13980
+196,"Bloomington, IL",0.9,0.9,0.9,0.9,0.6,1.2,0.5,2.1,1.6,0,1.6,Bloomington,IL,14010
+197,"Bloomsburg-Berwick, PA",1.75,1.75,1.75,1.75,1.75,1.75,2.3,1.2,1.2,1.2,1.2,Bloomsburg-Berwick,PA,14100
+198,"Boise City-Nampa, ID",2.7,3.6,0.8,1.6,1.6,1.3,1.1,0.9,1.7,1.8,2.5,Boise City-Nampa,ID,14260
+200,"Boston-Cambridge-Newton, MA-NH",2.7,2.8,2.6,2.4,3.5,2.8,2.1,1.8,1.95,1.85,1.9,Boston-Cambridge-Newton,"MA,NH",14460
+201,"Boulder, CO",2.35,2.35,2.35,2.4,2.3,1.3,0,0.6,1.9,0.9,0.3,Boulder,CO,14500
+202,"Bridgeport-Stamford-Norwalk, CT",3.25,2.6,3.9,2,3.8,3.6,3.6,1.5,1.9,2.5,1.5,Bridgeport-Stamford-Norwalk,CT,14860
+203,"Brunswick, GA",4.9,19.7,17.6,15.5,5.9,6.1,7,6.2,5.2,2.6,4.3,Brunswick,GA,15260
+204,"Buffalo-Cheektowaga-Niagara Falls, NY",7.5,5.3,3.9,6.7,6.1,3.9,4.7,5.2,6.3,4.4,4.9,Buffalo-Cheektowaga-Niagara Falls,NY,15380
+205,"Burlington-South Burlington, VT",1.2,1.9,0.5,0.5,0.5,0.5,0.7,0.7,0.7,0.9,0.7,Burlington-South Burlington,VT,15540
+206,"California-Lexington Park, MD",1.35,1.35,1.35,1.35,1.35,1.35,0,2.7,0,0.9,1.8,California-Lexington Park,MD,15680
+209,"Canton-Massillon, OH",3.1,3.1,3.1,3.1,2.5,3.7,3.2,3,3,3.2,3.1,Canton-Massillon,OH,15940
+210,"Cape Girardeau-Jackson, MO-IL",3.2,3.2,4.3,2.1,1.1,1,5.1,7.2,8.2,3.1,6.1,Cape Girardeau-Jackson,"MO,IL",16020
+211,"Carbondale-Marion, IL",2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,Carbondale-Marion,IL,16060
+212,"Chambersburg-Waynesboro, PA",2.95,2.95,2.95,2.95,2.95,2.95,3.3,2.6,3.3,2,8.4,Chambersburg-Waynesboro,PA,16540
+213,"Champaign-Urbana, IL",2.15,2.15,2.15,2.15,2.15,2.6,1.7,3.8,4.7,4.65,4.6,Champaign-Urbana,IL,16580
+214,"Charleston, WV",7.5,2.6,4.6,8.6,7.4,6.2,7.35,7.35,8.5,8.1,7.8,Charleston,WV,16620
+215,"Charleston-North Charleston-Summerville, SC",12.6,11,7.5,5.5,6,6.5,7,7.2,8,8.5,9.4,Charleston-North Charleston-Summerville,SC,16700
+216,"Charlotte-Concord-Gastonia, NC-SC",8.3,7.1,8.1,5.6,5.2,4.8,5,5.2,4.5,4.85,4.85,Charlotte-Concord-Gastonia,"NC,SC",16740
+217,"Chattanooga, TN-GA",5.2,3.6,5.6,4.6,4.6,6.4,5.25,4.1,7.3,5.8,6,Chattanooga,"TN,GA",16860
+218,"Chicago-Joilet-Naperville, IL",6.8,6.8,6.8,6.8,6.8,6.8,6.8,6.8,6.8,6.8,6.8,Chicago-Joilet-Naperville,IL,16980
+219,"Chicago-Joliet-Naperville, IL-IN-WI",6.4,6.4,6.4,6.4,6.4,6.4,6.4,6.4,6.4,6.4,6.4,Chicago-Joliet-Naperville,"IL,IN,WI",16980
+220,"Chicago-Naperville-Arlington Heights, IL",7.5,7.5,7.5,7.5,7.5,7.5,8.2,6.8,6.9,7.7,11.9,Chicago-Naperville-Arlington Heights,IL,16980
+221,"Chicago-Naperville-Elgin, IL-IN-WI",6.75,6.75,6.75,6.75,6.75,6.75,7.1,6.4,6.3,7.1,10.2,Chicago-Naperville-Elgin,"IL,IN,WI",16980
+222,"Cincinnati-Middletown, OH-KY-IN",5.9,4.7,5,4.1,4.2,4.6,3.5,4.8,4.6,4.6,4.7,Cincinnati-Middletown,"OH,KY,IN",17140
+223,"Cleveland-Elyria-Mentor, OH",4.7,6.1,5.95,5.8,4.9,4.8,4.85,4.85,7,7,9.2,Cleveland-Elyria-Mentor,OH,17460
+224,"Coeur d'Alene, ID",0.8,0.7,1.05,1.4,2.8,1.75,0.7,2.1,2.7,1.3,4.6,Coeur d'Alene,ID,17660
+225,"Columbia, SC",8.4,6.95,5.5,6.3,5.3,5.8,5,4.7,6.5,6.9,7.1,Columbia,SC,17900
+226,"Columbus, OH",6.6,5.4,6.9,5.7,5.8,5.7,5.75,5.25,4.8,4.7,5.2,Columbus,OH,18140
+227,"Corvallis, OR",1.85,2.5,1.2,1.2,0,3.5,1.2,0,0,2.3,1.1,Corvallis,OR,18700
+228,"Crestview-Fort Walton Beach-Destin, FL",2.7,2.2,1.7,2.8,1.7,2.2,1.2,2.8,1.5,4.9,5.2,Crestview-Fort Walton Beach-Destin,FL,18880
+229,"Dallas-Fort Worth-Arlington, TX",5.6,5.9,5.5,4.8,4.7,4.5,4.1,4.4,4.2,4,5.1,Dallas-Fort Worth-Arlington,TX,19100
+231,"Danville, IL",4.4,4.4,4.4,7.5,1.3,3.7,4.9,3.1,1.3,0,0,Danville,IL,19180
+232,"Danville, VA",4.6,8.5,12.4,8.5,11.3,10.2,10.75,10.75,10.75,10.75,10.75,Danville,VA,19260
+233,"Daphne-Fairhope-Foley, AL",2.4,2.4,2.4,2.4,2.4,2.4,4.3,0.5,2,1.5,1.75,Daphne-Fairhope-Foley,AL,19300
+234,"Davenport-Moline-Rock Island, IA-IL",1.95,1.95,1.95,1.95,1.8,2.1,2.6,1.8,1,2.6,3.1,Davenport-Moline-Rock Island,"IA,IL",19340
+235,"Decatur, IL",3.3,3.3,3.3,2.8,3.8,9,5.4,4.6,1.8,5.6,2.8,Decatur,IL,19500
+236,"Denver-Aurora-Lakewood-Broomfield, CO",4.4,3.4,3.2,3.9,2.5,2.7,3.9,3.7,2.8,3.8,4.3,Denver-Aurora-Lakewood-Broomfield,CO,19740
+238,"Detroit-Warren-Dearborn, MI",11.3,10.9,10.5,10.1,9.1,9.7,10.9,9.6,8.7,8.9,9,Detroit-Warren-Dearborn,MI,19820
+239,"Dothan, AL",5.8,10,2.8,2.1,3.4,3.4,7.5,6.1,4.75,3.4,6.7,Dothan,AL,20020
+240,"Durham-Chapel Hill, NC",4.7,6.25,7.8,5.8,7.1,7.2,5.2,5,4.8,5,5,Durham-Chapel Hill,NC,20500
+242,"East Stroudsburg, PA",3.6,3.6,3.6,3.6,3.6,3.6,2.4,4.8,3,1.2,6.1,East Stroudsburg,PA,20700
+243,"Eau Claire, WI",0,0.6,1.3,0.6,4.3,0,0.6,1.2,0.6,0,3,Eau Claire,WI,20740
+246,"Elizabethtown-Fort Knox, KY",0,2.7,0.9,1.8,0,1.7,0.7,1.3,0.7,3.3,2,Elizabethtown-Fort Knox,KY,21060
+247,"Elkhart-Goshen, IN",7.6,5.8,4,4,1,2.5,1.5,2,2,2,2,Elkhart-Goshen,IN,21140
+248,"Enid, OK",2.35,2.35,2.35,2.35,2.35,2.35,2.35,2.35,2.35,1.6,3.1,Enid,OK,21420
+249,"Eugene-Springfield, OR",2.3,0.3,2.3,1.1,0.95,0.8,2,1.1,2.35,3.6,1.9,Eugene-Springfield,OR,21660
+250,"Evansville, IN-KY",2.8,1.7,2.9,2,2.3,1.9,2.1,2.55,3.2,2.5,3.5,Evansville,"IN,KY",21780
+251,"Fajardo, Puerto Rico",17.3,21.1,26,28.5,32.8,37.1,32.8,32.8,32.8,32.8,32.8,Fajardo,PR,21940
+252,"Fayetteville, NC",8.5,8.7,11.4,9.7,6.3,8.9,7.9,7.9,9.7,10.65,11.6,Fayetteville,NC,22180
+253,"Fayetteville-Springdale-Rogers, AR-MO",2.2,2.1,1.8,1.7,0.8,1.55,2.3,2.5,2.4,2.4,2.4,Fayetteville-Springdale-Rogers,"AR,MO",22220
+254,"Florence, SC",6,14.9,11,9.9,10.4,6.7,7.7,5.3,5.3,6.05,6.8,Florence,SC,22500
+255,"Florence-Muscle Shoals, AL",4.5,4.5,4.2,4.8,3.4,2,3.4,3.4,2,1.4,2.7,Florence-Muscle Shoals,AL,22520
+256,"Fort Collins-Loveland, CO",1.8,1.4,1.7,2,0,1.3,1,0.6,1.2,2.1,2.6,Fort Collins-Loveland,CO,22660
+258,"Gadsden, AL",5.8,5.3,4.8,2.9,6.7,4.8,1.9,7.7,2.9,3.9,5.9,Gadsden,AL,23460
+259,"Gainesville, GA",1.8,2.2,2.4,2.6,2.1,2.7,3.8,3.7,3.7,2.6,4.1,Gainesville,GA,23580
+261,"Gettysburg, PA",2.45,2.45,2.45,2.45,2.45,2.45,4.9,0,0,0,2,Gettysburg,PA,23900
+262,"Grand Island, NE",0.6,0.6,0.6,0.6,0.6,0.6,0,1.2,0,0,1.2,Grand Island,NE,24260
+263,"Grand Rapids-Wyoming, MI",3.4,3.5,2.3,1.7,2.2,2.6,2.5,2.4,2.1,1.7,2.1,Grand Rapids-Wyoming,MI,24340
+264,"Grants Pass, OR",5.95,5.95,5.95,5.95,5.95,5.95,5.95,3.6,5.95,8.3,2.3,Grants Pass,OR,24420
+265,"Greensboro-High Point, NC",7,10.5,6.4,4.9,4.3,5.15,6,4.7,4.4,5.6,5,Greensboro-High Point,NC,24660
+266,"Greenville, NC",7.2,8.3,4.6,6.45,5.5,6.35,6.4,6.3,3.4,7.9,5.65,Greenville,NC,24780
+267,"Greenville-Mauldin-Easley-Anderson, SC",6.7,6.5,6.6,5.55,4.6,6.5,6.4,5.4,5.9,5.9,5.9,Greenville-Mauldin-Easley-Anderson,SC,24860
+268,"Guayama, Puerto Rico",15.2,15.4,9.5,16.6,19,21.4,34.8,24.4,16.1,11.4,24.4,Guayama,PR,25020
+269,"Gulfport-Biloxi-Pascagoula, MS",5.05,5.05,5.05,5.1,5,8.4,5.75,3.1,4.9,6.7,4.9,Gulfport-Biloxi-Pascagoula,MS,25060
+270,"Hagerstown-Martinsburg, MD-WV",2.4,2.35,2.3,1.1,0.7,3.3,2.7,3.1,3.65,4.2,2.7,Hagerstown-Martinsburg,"MD,WV",25180
+271,"Hammond, LA",9.3,9.3,9.3,9.3,9.3,9.3,8.9,9.7,7.9,3.9,13.1,Hammond,LA,25220
+272,"Hanford-Corcoran, CA",2.8,4.7,4.6,3.3,2,5.2,2.6,4,4.6,3.3,7.3,Hanford-Corcoran,CA,25260
+273,"Harrisburg-Carlisle, PA",3.1,4,3.6,4.9,3.5,3.6,3.3,3.6,3.9,3.65,3.4,Harrisburg-Carlisle,PA,25420
+274,"Hattiesburg, MS",9.9,2.9,4.95,7,4.1,3.75,3.4,3.7,3.7,4,6,Hattiesburg,MS,25620
+275,"Hickory-Lenoir-Morganton, NC",6.6,5.2,8,4.6,3.5,5.9,5.4,5.05,4.7,5.05,5.05,Hickory-Lenoir-Morganton,NC,25860
+276,"Hilton Head Island-Bluffton-Beaufort, SC",7,7,7,7,7,7,11,3,3.5,13.5,8,Hilton Head Island-Bluffton-Beaufort,SC,25940
+277,"Hinesville-Fort Stewart, GA",6.85,6.7,7,2.9,9.7,5.1,4.9,6,6.1,1.2,3.7,Hinesville-Fort Stewart,GA,25980
+278,"Holland-Grand Haven, MI",0,0.75,1.5,1.5,0,0.8,0.4,0.4,0.4,0.4,0.4,Holland-Grand Haven,MI,26100
+279,"Homosassa Springs, FL",3.55,3.55,3.55,3.55,3.55,3.55,3.5,3.6,5,1.4,2.8,Homosassa Springs,FL,26140
+280,"Honolulu, HI",1.9,2.1,2,1.5,2,1.75,1.75,1.75,1.75,1.75,1.75,Honolulu,HI,26180
+281,"Hot Springs, AR",5.3,10.4,4.1,10.1,9,4.1,6.7,9.3,6.7,6.7,4.1,Hot Springs,AR,26300
+282,"Houma-Bayou Cane-Thibodaux, LA",4.8,5.9,5.4,6.9,5.9,2.9,4.3,11,4.3,8,8.9,Houma-Bayou Cane-Thibodaux,LA,26380
+283,"Houston-Sugar Land-Baytown-The Woodlands, TX",9.6,8.8,7.8,7.9,7.3,5.4,5.7,5.9,5.8,6.9,7.2,Houston-Sugar Land-Baytown-The Woodlands,TX,26420
+284,"Huntington-Ashland, WV-KY-OH",1,1.6,1.6,1.6,1.6,1.6,1.6,1.6,1.6,1.6,2.2,Huntington-Ashland,"WV,KY,OH",26580
+285,"Indianapolis-Carmel-Anderson, IN",9.4,7.7,7.4,6.4,6.25,6.1,6,7.6,7.9,8.2,9.2,Indianapolis-Carmel-Anderson,IN,26900
+286,"Ithaca, NY",1,0,2,3,2,2.5,2.5,2.5,2.5,2.5,2.5,Ithaca,NY,27060
+287,"Jackson, MI",2.5,1.2,2.5,5,6.9,5.95,5,3.1,6.2,3.8,5.7,Jackson,MI,27100
+288,"Jackson, MS",11.1,12.4,14.1,8.1,10.4,12.2,13.4,10,12.8,11.6,12.2,Jackson,MS,27140
+289,"Jacksonville, NC",5.1,7.2,6.7,6.5,4.35,2.2,4.35,3.2,3.2,4.2,3.2,Jacksonville,NC,27340
+290,"Janesville-Beloit, WI",2.5,3.1,2.5,3.7,2.5,2.5,1.9,1.2,5.6,3.7,1.9,Janesville-Beloit,WI,27500
+291,"Jefferson City, MO",2.8,2.1,2.75,3.4,2.7,4.7,2,1.3,4,1.3,4.6,Jefferson City,MO,27620
+292,"Johnstown, PA",4,1.4,4.2,3.5,2.8,2.8,4.2,8.5,5,4.4,5.2,Johnstown,PA,27780
+293,"Joplin, MO",3.6,4.7,4.1,2.9,1.7,1.7,3.4,2.3,2.3,5.1,3.9,Joplin,MO,27900
+294,"Kahului-Wailuku-Lahaina, HI",1.85,1.85,1.85,1.85,1.85,1.85,3.1,0.6,2.5,2.4,3,Kahului-Wailuku-Lahaina,HI,27980
+295,"Kalamazoo-Portage, MI",2.5,4.4,1.9,3.7,4.3,4,3.7,3.05,2.4,3.3,6.5,Kalamazoo-Portage,MI,28020
+296,"Kankakee-Bradley, IL",5.25,5.25,5.25,5.25,5.25,3.5,7,5.3,9.8,9.45,9.1,Kankakee-Bradley,IL,28100
+297,"Kansas City, MO-KS",8.9,8.4,8.4,7.9,8.2,7.9,7.7,7.4,6.6,8.4,7.5,Kansas City,"MO,KS",28140
+298,"Kennewick-Pasco-Richland, WA",2.7,1.7,0.9,0.4,2,1.9,0.7,3.3,5.1,2.9,1.8,Kennewick-Pasco-Richland,WA,28420
+299,"Killeen-Temple-Fort Hood, TX",3,5.4,4.3,3.4,4.4,4.3,4.8,4.7,4.6,5.6,6.2,Killeen-Temple-Fort Hood,TX,28660
+300,"La Crosse-Onalaska, WI-MN",0,0.8,0.8,0.8,2.2,0,3,1.5,0,1.5,0.7,La Crosse-Onalaska,"WI,MN",29100
+301,"Lafayette, IN",1.1,1.1,2.1,0,1,1.5,0.5,1.4,1.4,1.9,1.4,Lafayette,IN,29140
+302,"Lafayette, LA",7.6,9.4,5.8,5.3,7.5,4.3,7.2,5,7.5,7.8,9.3,Lafayette,LA,29180
+303,"Lake Charles, LA",6.5,8.15,8.15,9.8,8.2,9,7.55,6.9,5.65,4.4,6.8,Lake Charles,LA,29340
+305,"Lake Havasu City-Kingman, AZ",8.7,8,4,4,4.95,5.9,5.9,4.4,3.4,2,2.7,Lake Havasu City-Kingman,AZ,29420
+306,"Lakeland-Winter Haven, FL",3.8,5.5,7.6,4.3,5.1,4.1,6.3,3.2,3,3.9,3.9,Lakeland-Winter Haven,FL,29460
+307,"Las Vegas-Henderson-Paradise, NV",10.2,8.6,7.3,7,6.7,4.7,4.8,5.7,6.6,6.9,9,Las Vegas-Henderson-Paradise,NV,29820
+308,"Lawrence, KS",4.8,1.8,3.5,0,0,0,0,0.9,0.45,0.45,0.45,Lawrence,KS,29940
+309,"Lewiston, ID-WA",1.7,1.7,5,1.6,1.6,0.8,0,0,4.8,6.4,1.6,Lewiston,"ID,WA",30300
+310,"Logan, UT-ID",1.8,0,1.6,0,0,0,0,0.8,0.8,0.8,1.5,Logan,"UT,ID",30860
+311,"Longview, TX",7.7,4.4,7.3,8.2,9.6,5,3.6,5.5,5,10.1,7.55,Longview,TX,30980
+312,"Los Angeles-Long Beach-Anaheim-Santa Ana, CA",8.4,7.3,6.8,6,5.3,4.9,5,4.5,4.4,4.9,5.1,Los Angeles-Long Beach-Anaheim-Santa Ana,CA,31080
+313,"Louisville-Jefferson County, KY-IN",4.7,7.1,6.4,5.5,4.9,4.4,6.2,4.9,5.4,7.5,10.4,Louisville-Jefferson County,"KY,IN",31140
+314,"Macon-Bibb County, GA",7.6,13,10,10,12,7.6,11,9.9,9.7,9.5,7.8,Macon-Bibb County,GA,31420
+315,"Madera-Chowchilla, CA",1.4,3.4,6.7,2,6.6,3.3,4.95,4.95,4.95,4.95,4.95,Madera-Chowchilla,CA,31460
+316,"Manchester-Nashua, NH",1.2,1.35,1.35,1.5,0.7,2,0.2,2.5,1.7,3.2,1.2,Manchester-Nashua,NH,31700
+317,"Manhattan, KS",3.25,3.25,3.3,3.2,4.8,3.9,1,6,3,2,1,Manhattan,KS,31740
+318,"Mankato-North Mankato, MN",0.55,0.55,0,1.1,3.2,1,0,2,2,0,2,Mankato-North Mankato,MN,31860
+319,"Mayaguez, Puerto Rico",9.4,12.6,9.9,17.3,21.5,25.7,20.3,19.8,8.1,11.5,17,Mayaguez,PR,32420
+320,"Miami-Fort Lauderdale-Miami Beach, FL",7.6,7.8,7.6,6.9,6.6,6.1,6.3,6.6,7.1,6.6,5.8,Miami-Fort Lauderdale-Miami Beach,FL,33100
+321,"Michigan City-La Porte, IN",2.7,6.3,4.6,2.7,4.5,3.6,2.7,4.05,5.4,3.6,1.8,Michigan City-La Porte,IN,33140
+322,"Midland, MI",1.8,1.8,1.8,1.8,1.8,1.8,2.4,1.8,1.2,2.4,1.2,Midland,MI,33220
+323,"Missoula, MT",0,1,1.9,0.9,0.9,0.9,0,0.9,1.8,3.5,0,Missoula,MT,33540
+324,"Monroe, LA",8.6,2.3,6.3,7.7,9.1,5.1,6.2,9.5,7.3,15.1,11.2,Monroe,LA,33740
+325,"Monroe, MI",0.7,0.6,1.3,3.3,1.3,2,3.3,3.3,2.65,2,2.65,Monroe,MI,33780
+327,"Montgomery, AL",9.2,14.3,7.6,10.5,7,10.4,13.9,12.3,10.7,10.5,11.8,Montgomery,AL,33860
+328,"Morgantown, WV",3.5,2.6,2.15,1.7,2.4,2.35,2.3,0.7,2.9,2.2,2.2,Morgantown,WV,34060
+329,"Morristown, TN",1.5,3.7,2.2,2.2,4.3,2.2,2.6,1.7,0,2.6,1.3,Morristown,TN,34100
+330,"Muncie, IN",3.4,0.9,0.9,5.2,0,1.7,0.8,0,1.7,4.7,7.7,Muncie,IN,34620
+331,"Muskegon-Norton Shores, MI",2.3,0.6,2.3,3.4,2.3,4.1,5,5.9,6.4,4.6,5.2,Muskegon-Norton Shores,MI,34740
+332,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",10.8,4.9,7.85,5.4,5.9,8.8,6.15,3.5,8.85,14.2,7.2,Myrtle Beach-Conway-North Myrtle Beach,"SC,NC",34820
+333,"Naples-Immokalee-Marco Island, FL",2.2,5,2.5,4.4,3.4,3.1,1.8,3.6,2.3,0.6,2.7,Naples-Immokalee-Marco Island,FL,34940
+334,"Nashville - Davidson - Murfreesboro - Franklin, TN",7.2,6.8,6.5,6.9,5.9,4.9,5.1,3.4,3.9,5.5,6.2,Nashville - Davidson - Murfreesboro - Franklin,TN,34980
+336,"New Bern, NC",1.55,1.55,1.55,1.55,1.55,1.55,2.3,0.8,1.6,5.5,2.4,New Bern,NC,35100
+337,"New Haven-Milford, CT",4.4,4.4,4.4,3.8,5,6.2,4.1,3.3,3.1,3.4,3.7,New Haven-Milford,CT,35300
+338,"New Orleans-Metairie-Kenner, LA",21.7,28.2,22.4,21.4,20.8,23.7,20.6,19,16.8,16.3,18.9,New Orleans-Metairie-Kenner,LA,35380
+340,"New York-Newark-Jersey City, NY-NJ-PA",3.65,3.65,3.65,3.65,3.65,3.65,3.8,3.5,3.1,3.2,3.3,New York-Newark-Jersey City,"NY,NJ,PA",35620
+341,"New York-Northern New Jersey-Long Island, NY-NJ-PA",5.2,4.5,4.5,4.1,4.7,4.5,4.6,4.6,4.6,4.6,4.6,New York-Northern New Jersey-Long Island,"NY,NJ,PA",35620
+344,"Niles-Benton Harbor, MI",4.9,0,1.3,1.9,1.6,1.9,1.6,1.9,1.3,5.2,6.5,Niles-Benton Harbor,MI,35660
+345,"North Port-Bradenton-Sarasota, FL",4.4,6.2,4,6.1,3.6,4.5,6,2.7,3.8,4.1,4.1,North Port-Bradenton-Sarasota,FL,35840
+346,"Norwich-New London, CT",3.55,3.55,4.2,2.9,3.5,3.4,3.4,2.7,0,4.1,1.9,Norwich-New London,CT,35980
+348,"Olympia, WA",1.7,2.5,1.6,2,1.6,1.6,3.9,1.1,1.1,1.1,2.2,Olympia,WA,36500
+349,"Orlando-Kissimmee-Sanford, FL",8.1,7.2,7.9,5.3,4.8,5.6,5,3.9,6.8,5.1,8.1,Orlando-Kissimmee-Sanford,FL,36740
+350,"Oshkosh-Neenah, WI",2.5,1.2,1.8,0,0.3,0.6,0,0,1.2,2.4,0,Oshkosh-Neenah,WI,36780
+351,"Owensboro, KY",1.8,1.8,1.8,1.8,1.8,0.9,0,0,0,0,1.7,Owensboro,KY,36980
+352,"Palm Coast, FL",5.1,4.5,0,3.1,0,1,0.5,0.5,0.5,0.5,0.5,Palm Coast,FL,37380
+353,"Panama City-Lynn Haven-Panama City Beach, FL",3,4.9,6.7,5.5,7.2,7,5.3,4.2,9.3,5,4.5,Panama City-Lynn Haven-Panama City Beach,FL,37460
+354,"Parkersburg-Marietta-Vienna, WV-OH",1.8,2.5,1.8,1.8,1.8,0.55,1.1,0,1.1,3.3,4.4,Parkersburg-Marietta-Vienna,"WV,OH",37620
+355,"Pascagoula, MS",5.7,8.5,3.3,4.6,3.8,3.1,3.45,3.45,3.45,3.45,3.45,Pascagoula,MS,37700
+357,"Peoria, IL",6.65,6.65,6.65,6.65,7.5,5.8,4.7,5.8,2.6,4.5,3.7,Peoria,IL,37900
+359,"Phoenix-Mesa-Glendale-Scottsdale, AZ",8.7,8.2,6.6,5.3,5.5,4.9,5.3,4.8,4.65,4.5,5.5,Phoenix-Mesa-Glendale-Scottsdale,AZ,38060
+360,"Pine Bluff, AR",14.1,17.4,20.8,14,9,14.8,14.1,16.05,18,12.8,10.8,Pine Bluff,AR,38220
+361,"Pocatello, ID",1.1,0,1.1,1.1,1.1,3.3,3.6,1.2,1.2,1.2,3.6,Pocatello,ID,38540
+362,"Ponce, Puerto Rico",27.7,27.3,33.8,38.9,36.3,33.7,22.1,23.4,20.9,18,22.6,Ponce,PR,38660
+363,"Portland-South Portland-Biddeford, ME",1,1.2,2.1,2.5,1.9,1,1.4,1.2,1.3,0.8,1.5,Portland-South Portland-Biddeford,ME,38860
+364,"Portland-Vancouver-Beaverton, OR-WA",2.3,2.2,2,2.1,2.1,2.1,2.4,1.4,2,1.85,1.7,Portland-Vancouver-Beaverton,"OR,WA",38900
+365,"Poughkeepsie-Newburgh-Middletown, NY",2.4,3.4,2.7,1.9,4.6,2.4,3.5,3.5,3.5,3.5,3.5,Poughkeepsie-Newburgh-Middletown,NY,39100
+366,"Prescott, AZ",4.8,2.8,1.8,1.4,3.3,7.9,5.6,1.4,2.75,4.1,2.7,Prescott,AZ,39140
+367,"Providence-New Bedford-Fall River, RI-MA",2.75,2.75,2.6,2.9,2.6,2.5,2.4,2.5,1.9,2.2,2.4,Providence-New Bedford-Fall River,"RI,MA",39300
+368,"Provo-Orem, UT",0.6,0.4,0.6,0.7,1.1,0.9,0.7,1.1,0.7,0.3,0.8,Provo-Orem,UT,39340
+369,"Pueblo, CO",3.9,4.5,6.65,8.8,2.6,8,4.9,3.1,6.1,8,6.7,Pueblo,CO,39380
+370,"Raleigh-Cary, NC",3.8,3.6,4.7,2.3,3.4,2.6,1.8,2.7,2.25,2.25,2.25,Raleigh-Cary,NC,39580
+371,"Reno-Sparks, NV",7.4,5.4,3.6,4.3,4.2,5.6,2.8,5.2,4.3,4.4,3.1,Reno-Sparks,NV,39900
+372,"Richmond, VA",9.9,8.6,6.2,5.8,7.2,5.6,6.8,6.2,6.2,7.5,6.85,Richmond,VA,40060
+373,"Rockford, IL",7.1,7.1,7.1,7.1,6.5,7.7,3.4,7.5,6.7,6.8,9.2,Rockford,IL,40420
+375,"Rocky Mount, NC",12.1,14.2,10.85,7.5,10.2,11.7,9.1,10.5,12.6,13.5,8.2,Rocky Mount,NC,40580
+376,"Rome, GA",4.1,4.2,3.65,3.1,3.2,5.1,5.2,4.2,7.8,11.4,5.2,Rome,GA,40660
+377,"Sacramento - Roseville - Arden - Arcade, CA",5.4,4.8,5.3,4,4.2,4.4,3.8,4.1,4,4.9,4.2,Sacramento - Roseville - Arden - Arcade,CA,40900
+378,"Saginaw-Saginaw Township North, MI",13.5,10.7,12,7,3.5,7,15.1,19.2,8.2,4.1,9.4,Saginaw-Saginaw Township North,MI,40980
+379,"Salisbury, MD-DE",8.6,4.2,6.7,5.7,9,4.7,3.9,2.9,2.8,3.3,3.8,Salisbury,"MD,DE",41540
+380,"San Angelo, TX",2.8,0.9,5.5,8.2,1.8,0,2.15,4.3,4.2,3.3,5,San Angelo,TX,41660
+381,"San Antonio-New Braunfels, TX",7,7.1,7.7,6.3,4.7,5.1,5.1,4.6,5.8,5.4,7.7,San Antonio-New Braunfels,TX,41700
+382,"San Diego-Carlsbad-San Marcos, CA",4.3,3.6,3,2.5,2.2,2.6,3.4,2.2,2.3,2.5,3,San Diego-Carlsbad-San Marcos,CA,41740
+383,"San Francisco-Oakland-Fremont, CA",8.9,8.8,8.1,6.8,6.2,6,6.5,4.8,4.6,5.3,5.1,San Francisco-Oakland-Fremont,CA,41860
+385,"San German-Cabo Rojo, Puerto Rico",4.9,4.8,2,2,3.2,4.4,8.1,6.7,4.5,5.4,7,San German-Cabo Rojo,PR,41900
+386,"San Juan-Caguas-Guaynabo, Puerto Rico",21.8,21.3,23.1,26,31.1,36.2,31.1,31.1,31.1,31.1,31.1,San Juan-Caguas-Guaynabo,PR,41980
+387,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",2.3,2,1.5,1.5,2.2,1.8,2.2,1.8,1.1,1.1,1.4,San Luis Obispo-Paso Robles-Arroyo Grande,CA,42020
+389,"Sandusky, OH",0,1.3,2.6,2.6,0,1.3,0.65,0.65,0.65,0.65,0.65,Sandusky,OH,41780
+390,"Santa Barbara-Santa Maria-Goleta, CA",3.2,2.5,3.5,2.7,2.7,2.3,1.4,1.4,3.6,4,2.9,Santa Barbara-Santa Maria-Goleta,CA,42060
+391,"Santa Fe, NM",6.3,7.65,9,10.3,6.6,2.7,4.1,3.4,2.7,2,1.3,Santa Fe,NM,42140
+392,"Santa Rosa-Petaluma, CA",2.3,1.7,2.6,1.9,1.3,2.2,0.8,1.8,1.4,1.8,2,Santa Rosa-Petaluma,CA,42220
+393,"Scranton-Wilkes-Barre-Hazleton, PA",3.4,2.9,4.4,4.7,2.2,2.7,2.3,4.3,3,3.65,3.65,Scranton-Wilkes-Barre-Hazleton,PA,42540
+395,"Seattle-Tacoma-Bellevue, WA",3.6,3.1,2.85,2.6,2.3,2.1,2.9,2.2,2.7,3,2.7,Seattle-Tacoma-Bellevue,WA,42660
+396,"Sebring, FL",3.55,3.55,3.55,3.55,3.55,3.55,3,4.1,11.2,5.1,7,Sebring,FL,42700
+397,"Sheboygan, WI",0.9,0.9,0,1.7,1.3,0.9,4.3,0.9,0.9,2.6,1.7,Sheboygan,WI,43100
+398,"Shreveport-Bossier City, LA",11.3,11.4,9.5,9.4,8.4,6.9,5.4,7.8,6.5,7.9,11.7,Shreveport-Bossier City,LA,43340
+399,"Sierra Vista-Douglas, AZ",3.5,3.5,3.5,3.5,3.5,3.5,3,3.5,3.5,3.5,4,Sierra Vista-Douglas,AZ,43420
+400,"Spartanburg, SC",7,9.1,6.8,4.6,5.2,4.2,3.8,2.8,4.4,7.7,6.05,Spartanburg,SC,43900
+401,"Spokane-Spokane Valley, WA",3.8,3.1,4.1,2.1,2.5,1.5,3.9,3.7,2.8,3.8,2.9,Spokane-Spokane Valley,WA,44060
+402,"Springfield, IL",4.35,4.35,4.35,4.35,4.4,4.3,6.6,16.5,8.5,5.2,3.8,Springfield,IL,44100
+403,"St. Cloud, MN",0.5,0.5,0.5,1.1,1.6,0,0.5,1,1,2.1,0.5,St. Cloud,MN,41060
+404,"St. George, UT",1.05,0.7,1.4,1.4,0,1.05,2.1,1.4,1.3,0,0,St. George,UT,41100
+405,"Staunton-Waynesboro, VA",1.7,1.7,1.7,1.7,1.7,1.7,1.7,1.7,5,3.3,5.8,Staunton-Waynesboro,VA,44420
+406,"Stockton, CA",8.5,6.6,5.1,7.5,9.2,12.5,12.7,6.6,9.4,8.9,8.5,Stockton,CA,44700
+408,"Terre Haute, IN",4.05,4.05,4.05,4.05,4.05,3.5,4.6,3.5,4.05,4.05,4.05,Terre Haute,IN,45460
+409,"Texarkana, TX",10.2,11.1,3.7,11,2.9,7.2,5.3,4,3.3,5.4,7.4,Texarkana,TX,45500
+410,"The Villages, FL",0.95,0.95,0.95,0.95,0.95,0.95,0,1.9,1.8,0.8,0.8,The Villages,FL,45540
+411,"Trenton-Ewing, NJ",5.7,7.1,6.6,4.6,5.4,6.8,7,10.8,8.6,5.4,6.8,Trenton-Ewing,NJ,45940
+412,"Tucson, AZ",7.5,7.7,9.5,5.4,8,7.5,5.7,7.1,5.8,4.5,4.8,Tucson,AZ,46060
+413,"Tyler, TX",3.1,4.1,6.4,2.4,6.3,3.7,2.8,3.7,4.55,5.4,3.1,Tyler,TX,46340
+414,"Urban Honolulu, HI",1.55,1.55,1.55,1.55,1.55,1.55,1.55,1.55,1.55,1.5,1.6,Urban Honolulu,HI,46520
+415,"Valdosta, GA",2.3,1.6,3.1,8.2,3.8,5.7,3.5,4.85,6.2,5.55,4.9,Valdosta,GA,46660
+416,"Victoria, TX",6,3.5,1.8,2.6,6.9,2.5,6.2,3.1,4,3,3.5,Victoria,TX,47020
+417,"Vineland-Bridgeton, NJ",9.8,7.1,9.6,5.1,6.3,5.35,4.4,2.5,10.8,10.2,7.1,Vineland-Bridgeton,NJ,47220
+418,"Virginia Beach-Norfolk-Newport News, VA-NC",7.3,8.1,6.4,6.5,6.6,6.6,6.8,6.9,6.4,8,9.5,Virginia Beach-Norfolk-Newport News,"VA,NC",47260
+419,"Walla Walla, WA",2.35,2.35,2.35,2.35,2.35,2.35,1.6,2.35,3.1,6.2,3.1,Walla Walla,WA,47460
+421,"Washington-Arlington-Alexandria, DC-VA-MD-WV",8.8,9.2,9,7.1,6.2,5.3,4.3,4.4,4.3,6,5.3,Washington-Arlington-Alexandria,"DC,VA,MD,WV",47900
+422,"Waterloo-Cedar Falls, IA",1.8,3.1,1.8,1.2,2.4,2.4,3.6,3.85,4.1,2.3,1.8,Waterloo-Cedar Falls,IA,47940
+423,"Watertown-Fort Drum, NY",0.4,0.4,0.4,0.4,0.4,0.4,0.8,0,0.8,2.5,1.7,Watertown-Fort Drum,NY,48060
+424,"Weirton-Steubenville, WV-OH",2.85,3.2,2.5,3.75,5,3.75,3.75,3.35,3.35,3.35,1.7,Weirton-Steubenville,"WV,OH",48260
+425,"Wenatchee-East Wenatchee, WA",1.9,2.8,4.6,1.8,0.9,5.3,3.1,2.65,0,0.9,0.9,Wenatchee-East Wenatchee,WA,48300
+426,"West Palm Beach-Boca Raton-Boynton Beach, FL",7.1,7.5,7.6,6.8,6.4,5,5.5,5.4,6.6,6.8,5.3,West Palm Beach-Boca Raton-Boynton Beach,FL,33100
+427,"Wheeling, WV-OH",0.7,1.4,2.1,2.8,2.45,1.4,0,0,0,3.5,2.8,Wheeling,"WV,OH",48540
+428,"Wichita, KS",4.9,7.2,5.5,4.3,2.9,4.9,3.8,3.5,4.1,4.7,6.5,Wichita,KS,48620
+429,"Wilmington, DE-MD-NJ",5.5,5,7.9,5,6.8,4.9,7,5.6,6.5,8.2,7.3,Wilmington,"DE,MD,NJ",37980
+430,"Winston-Salem, NC",5.2,5.05,4.9,4.6,3.5,4.1,2,3.5,3.4,3.45,3.45,Winston-Salem,NC,49180
+431,"Worcester, MA-CT",1.1,2.3,1.9,2,1.7,2,1.6,1.6,0.9,1.6,1.4,Worcester,"MA,CT",49340
+432,"Yakima, WA",4.2,6.4,8.1,9.05,10,6.5,7.2,6.4,2.8,8.4,8.4,Yakima,WA,49420
+433,"York-Hanover, PA",4.25,3.8,4.7,4.2,2.5,4.6,3.7,4.3,3.2,4.3,4.3,York-Hanover,PA,49620
+434,"Youngstown-Warren-Boardman, OH-PA",6.45,6.45,7.2,5.7,5.9,5.8,5.7,5,4.3,5,5,Youngstown-Warren-Boardman,"OH,PA",49660
+435,"Yuma, AZ",3.7,6.8,3.6,5.1,6.1,7.1,3.4,5.9,3.9,4.9,4.4,Yuma,AZ,49740
