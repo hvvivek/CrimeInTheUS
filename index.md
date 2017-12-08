@@ -14,7 +14,7 @@ Here is some inline math $\alpha = \frac{\beta}{\gamma}$ and, of-course, E rules
 
 $$ G_{\mu\nu} + \Lambda g_{\mu\nu}  = 8 \pi T_{\mu\nu} . $$ -->
 
-![Image of Crime in USA](Images/Background.jpeg)
+![Image of Crime in USA](Images/Background.jpg)
 ## Problem Statement and Motivation
 With crime, we want to investigate how strongly correlated a context is to its crime rates. What are those strongest contributing factors that correlate to increased crime rates? 
 
