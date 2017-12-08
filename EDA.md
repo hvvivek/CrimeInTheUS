@@ -1,5 +1,5 @@
 ---
-title: Data Visualization
+title: for i, year in enumerate(years):
 notebook: EDA.ipynb
 nav_include: 1
 ---
@@ -1187,6 +1187,39 @@ for i, year in enumerate(years):
 ![png](EDA_files/EDA_38_0.png)
 
 
+#### Vacancy 
+Is vacancy rate corrolated to murder rates? Typically, blighted communities tend to have higher rates of crimes, though it's unclear which causes which (ie. if blighted neighborhoods are a result of high crime rates or if high crime rates happen in blighted areas). We did a simple plot of the proportion of vacancy with murder rates. We took the vacancy data (proportion of vacant buildings to the total number of buildings). 
+
+Hoowever, there is no strong correlation between the two.
+
+
+
+```python
+years = 2016
+
+crime_data_sub ={}
+
+crime_data_sub[2016] = crime_data[crime_data['year'] == 2016]      
+plt.scatter(crime_data_sub[2016]['vr'],crime_data_sub[2016]['murder_rate'], marker='.', label='vacancy rate') 
+
+plt.title('vacancy rate vs. murder rate (2016 only)', loc='left')
+plt.xlabel('number of firearm license')
+plt.ylabel('murder_rate')
+plt.legend()
+```
+
+
+
+
+
+    <matplotlib.legend.Legend at 0x22178d1b518>
+
+
+
+
+![png](EDA_files/EDA_40_1.png)
+
+
 #### Firearm License
 Aside from demographic data, we also looked for data around guns and firearms and came across an open data from the Bureau of Alcohol, Tobacco, Firearms, and Explosives website which lists the names of companies or persons carrying firearm licenses for the year 2016 by state. We have matched the MSA with the states in order to combine the two datasets.
 
@@ -1216,19 +1249,32 @@ plt.legend()
 
 
 
-![png](EDA_files/EDA_40_1.png)
+![png](EDA_files/EDA_42_1.png)
 
 
 #### Colinearity
-Some of the predictors may be colinear, such as age and education, as well as marital states and age. To check this, we developed a colinearity map to see which ones are actually colinear.
+Some of the predictors may be colinear, such as age and education, as well as marital states and age. To check this, we developed a colinearity map to see which ones are actually colinear. In order to get a truer picture of colinear elements, we had to drop the NaNs. And since the MSA is simply a name, we also dropped that column prior to producing the colinearity map. 
+
+There seems to be a high correlation between marriage/divorce with that of higher education (grad school or bachelor). There's also some correlation between people of more minority groups living in similar proportions. Therer's also a high correlation between people ages 20 to 29 with never being married. 
 
 
 
 ```python
-from pylab import pcolor, show, colorbar, xticks, yticks
+drop_crime_data = crime_data.dropna(how='any')
+```
 
-x_train, y_train, x_test, y_test = split(crime_data, .75, -1)
 
+
+
+```python
+drop_crime_data = drop_crime_data.drop(['msa'], axis=1)
+```
+
+
+
+
+```python
+x_train, y_train, x_test, y_test = split(drop_crime_data, 1, -1)
 ```
 
 
@@ -1254,168 +1300,5 @@ print()
     
 
 
-![png](EDA_files/EDA_43_1.png)
-
-
-### LINEAR REGRESSION
-
-#### drop NaN
-
-
-
-```python
-drop_crime_data = crime_data.dropna(how='any')
-```
-
-
-#### drop MSA column
-since in this exercise, we care more about the characteristics of the MSA than the MSA codes themselves, let's drop the MSA column.
-
-
-
-```python
-drop_crime_data = drop_crime_data.drop(['msa'], axis=1)
-```
-
-
-
-
-```python
-drop_crime_data.shape
-```
-
-
-
-
-
-    (3547, 33)
-
-
-
-#### Split train and test sets
-
-
-
-```python
-x_train, y_train, x_test, y_test = split(drop_crime_data, 0.75, -1)
-```
-
-
-
-
-```python
-x_train.shape
-```
-
-
-
-
-
-    (2642, 32)
-
-
-
-#### Check for Colinearity
-
-
-
-```python
-
-```
-
-
-    
-    
-
-
-![png](EDA_files/EDA_54_1.png)
-
-
-### T Test 
-
-
-
-```python
-x_train_2 = sm.add_constant(x_train)
-est = sm.OLS(y_train, x_train_2)
-est2 = est.fit()
-print(est2.summary())
-```
-
-
-                                OLS Regression Results                            
-    ==============================================================================
-    Dep. Variable:            murder_rate   R-squared:                       0.507
-    Model:                            OLS   Adj. R-squared:                  0.501
-    Method:                 Least Squares   F-statistic:                     86.46
-    Date:                Thu, 07 Dec 2017   Prob (F-statistic):               0.00
-    Time:                        16:11:47   Log-Likelihood:                -6385.5
-    No. Observations:                2642   AIC:                         1.283e+04
-    Df Residuals:                    2610   BIC:                         1.302e+04
-    Df Model:                          31                                         
-    Covariance Type:            nonrobust                                         
-    ==============================================================================
-                     coef    std err          t      P>|t|      [0.025      0.975]
-    ------------------------------------------------------------------------------
-    const        207.1511     56.863      3.643      0.000      95.649     318.653
-    pop        -5.002e-08   4.16e-08     -1.203      0.229   -1.32e-07    3.15e-08
-    r1            32.6667      8.413      3.883      0.000      16.169      49.165
-    r2            48.8139      8.462      5.769      0.000      32.222      65.406
-    r3            32.3345      8.508      3.801      0.000      15.652      49.017
-    r4            30.1703      8.809      3.425      0.001      12.898      47.443
-    r5           -73.7394     14.875     -4.957      0.000    -102.908     -44.571
-    r6            50.1098      8.076      6.205      0.000      34.274      65.945
-    r7            86.7953      9.494      9.142      0.000      68.178     105.413
-    m1           172.8962    100.409      1.722      0.085     -23.994     369.786
-    m2           199.2663    100.596      1.981      0.048       2.010     396.523
-    m3           198.1663    100.526      1.971      0.049       1.047     395.285
-    m4           170.0410    100.842      1.686      0.092     -27.697     367.779
-    m5           204.2724    100.469      2.033      0.042       7.266     401.279
-    i1         -4.882e-05    2.4e-05     -2.032      0.042   -9.59e-05   -1.71e-06
-    i2          2.098e-05   6.31e-05      0.333      0.740      -0.000       0.000
-    e1            -0.0011      0.002     -0.688      0.491      -0.004       0.002
-    e2             0.0028      0.003      0.957      0.339      -0.003       0.008
-    e3            -0.0002      0.001     -0.316      0.752      -0.002       0.001
-    e4          4.507e-05      0.001      0.045      0.964      -0.002       0.002
-    e5             0.0001      0.001      0.122      0.903      -0.002       0.002
-    a1          -227.0422    101.058     -2.247      0.025    -425.205     -28.880
-    a2          -229.0846    100.645     -2.276      0.023    -426.436     -31.733
-    a3          -190.7895    101.076     -1.888      0.059    -388.986       7.407
-    a4          -202.6094    101.193     -2.002      0.045    -401.035      -4.184
-    a5          -188.2716    100.830     -1.867      0.062    -385.987       9.444
-    a6          -209.3881    100.715     -2.079      0.038    -406.878     -11.899
-    a7          -196.8889    100.467     -1.960      0.050    -393.893       0.115
-    e6            -0.0004      0.001     -0.729      0.466      -0.002       0.001
-    vr             2.9083      1.199      2.426      0.015       0.558       5.259
-    mtof          -4.5885      1.595     -2.878      0.004      -7.715      -1.462
-    year          -0.1085      0.032     -3.383      0.001      -0.171      -0.046
-    firearms   -6.236e-05   3.57e-05     -1.746      0.081      -0.000    7.68e-06
-    ==============================================================================
-    Omnibus:                     1205.445   Durbin-Watson:                   1.989
-    Prob(Omnibus):                  0.000   Jarque-Bera (JB):            14510.439
-    Skew:                           1.837   Prob(JB):                         0.00
-    Kurtosis:                      13.877   Cond. No.                     2.41e+15
-    ==============================================================================
-    
-    Warnings:
-    [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-    [2] The smallest eigenvalue is 1.45e-15. This might indicate that there are
-    strong multicollinearity problems or that the design matrix is singular.
-    
-
-
-
-```python
-
-
-
-    
- 
-
-    
-
-
-
-
-```
+![png](EDA_files/EDA_47_1.png)
 
