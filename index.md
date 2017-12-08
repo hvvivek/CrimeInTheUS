@@ -43,8 +43,7 @@ Our questions derive from our Literature Review (below):
 Forrest, Walter. “Marriage Helps Reduce Crime.” The Conversation. Accessed December 7, 2017. [Marriage and Crime](http://theconversation.com/marriage-helps-reduce-crime-3576)
 
 **Real Estate and Crime**
-In an article we found around marriage and crime rates, the author mainly discusses the social/cultural effects of crime rates. 
-Forrest, Walter. “Marriage Helps Reduce Crime.” The Conversation. Accessed December 7, 2017. [Real Estate and Crime](http://theconversation.com/marriage-helps-reduce-crime-3576)
+>Part of the chicken and the egg argument, there’s significant link between high vacancy rates with high crime rates because of the lack of supervision and low poverty area. [Real Estate and Crime](https://www.huduser.gov/portal/periodicals/em/winter14/highlight1.html)
 
 **Firearms and Crime**
 >Contrary to common belief, in an interesting statement given during a hearing in Florida regarding opening the law to carry arms states that the open law in other states has lowered murder rate as well as other crime rates in those states. 
