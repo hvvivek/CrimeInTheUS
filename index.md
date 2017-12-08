@@ -39,7 +39,7 @@ Our questions derive from our Literature Review (below):
 
 ## Literature Review/Related Work
 **Marriage and Crime**
-In an article we found around marriage and crime rates, the author mainly discusses the social/cultural effects of crime rates.<br> 
+>In an article we found around marriage and crime rates, the author mainly discusses the social/cultural effects of crime rates. 
 Forrest, Walter. “Marriage Helps Reduce Crime.” The Conversation. Accessed December 7, 2017. [Marriage and Crime](http://theconversation.com/marriage-helps-reduce-crime-3576)
 
 **Real Estate and Crime**
@@ -47,14 +47,14 @@ In an article we found around marriage and crime rates, the author mainly discus
 Forrest, Walter. “Marriage Helps Reduce Crime.” The Conversation. Accessed December 7, 2017. [Real Estate and Crime](http://theconversation.com/marriage-helps-reduce-crime-3576)
 
 **Firearms and Crime**
-In an article we found around marriage and crime rates, the author mainly discusses the social/cultural effects of crime rates. 
-Forrest, Walter. “Marriage Helps Reduce Crime.” The Conversation. Accessed December 7, 2017. [Firearms and Crime](http://theconversation.com/marriage-helps-reduce-crime-3576)
+>Contrary to common belief, in an interesting statement given during a hearing in Florida regarding opening the law to carry arms states that the open law in other states has lowered murder rate as well as other crime rates in those states. 
+“Is Violent Crime Lower in States with Open Carry? | PolitiFact Florida.” Accessed December 8, 2017. . [Firearms and Crime](http://www.politifact.com/florida/statements/2015/oct/09/matt-gaetz/violent-crime-lower-states-open-carry/)
 
 **Income, Education and Crime**
 ![Image of Results](Images/Income.png)
 >Murder rates usually take higher values at lower incomes per capita and per household
-In an article we found around marriage and crime rates, the author mainly discusses the social/cultural effects of crime rates. 
-Forrest, Walter. “Marriage Helps Reduce Crime.” The Conversation. Accessed December 7, 2017. [Income, Education and Crime](http://theconversation.com/marriage-helps-reduce-crime-3576)
+Unsurprisingly, there are articles which associates higher educational attainment with lower potential for crimes and therefore lower murders, robberies, etc. 
+“Crime Rates Linked To Educational Attainment, 2013 Alliance Report Finds.” Alliance For Excellent Education (blog). Accessed December 8, 2017. [Income, Education and Crime](https://all4ed.org/press/crime-rates-linked-to-educational-attainment-new-alliance-report-finds/.)
 
 **Male to Female ratio**
 ![Image of Results](Images/M2F.png)
@@ -71,7 +71,7 @@ For our models, we’ve used cross-validated ridge and lasso models. Additionall
 3. Added complications came from overlapping data (i.e. data sets including two or more characteristics that are also present 
 
 ## Results, Conclusions, and Future Work ##
-![Image of Results](Images/Model_Results.png)
+![Image of Results](Images/Model_Results.PNG)
 We found that the Lasso model used on top of polynomial features performed the best on the test set. 
 Some of the significant features that were found in these models:
 1. **Race - Black and White:**
