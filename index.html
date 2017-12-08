@@ -10,21 +10,27 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
   </head>
   <body>
-    <div class="container-fluid">
+    <div class="container">
         <div class="row">
             <h1>Problem Statement and Motivation</h1>
+            <p>With crime, we want to investigate how strongly correlated a context is to its crime rates. What are those strongest contributing factors that correlate to increased crime rates?  </p>
         </div>
         <div class="row">
             <h1>Introduction and Description of Data</h1>
+            <p>We have identified a few basic criteria including the demographic range in age, gender, and race. Additionally, we also hypothesize that marital status, income, and educational attainment of the given population may have an impact on the way people behave and/or commit crimes. We’ve also looked into external sources to find the total number of firearm licenses issued within each state to find additional correlation between crime rates and the availability of firearms.  We have scraped the FBI website for the total numbers of reported violent crimes in each Metropolitan Statistical Area (within the U.S. and Puerto Rico) across 2006 to 2016. </p>
+            <p>Question: Is there a direct correlation between high population density and crime rates? Is there a correlation between high crime rates and high density of a certain race, age group, or gender? Would an area populated with higher marital rates have lower crime rates? Or would an area populated with widowed or divorced population have higher crime rates? Would a higher educated population lead to higher or lower crime rates? </p>
         </div>
         <div class="row">
             <h1>Literature Review and Related Work</h1>
+            <p>In an article we found around marriage and crime rates, the author mainly discusses the social/cultural effects of crime rates.  Forrest, Walter. ͞Marriage Helps Reduce Crime.͟ The Conversation. Accessed December 7, 2017.</p>
         </div>
         <div class="row">
             <h1>Modelling Approach and Project Trajectory</h1>
+            <p>Given the predictors are mostly (if not all) are continuous variables, we have decided to go with the linear regression models rather than the logistic regression.  With a basic linear regression as our baseline model, we also tested using a polynomial model (with and without interaction terms). </p>
         </div>
         <div class="row">
             <h1>Results, Conclusions, and Future Work</h1>
+            <p>Some of the complications we’ve faced include inconsistent MSA names across different years.  There were a significant amount of data that was missing from the census data that needed to be imputed. Some of the data sets found on the census bureau website were missing Puerto Rico. Added complications came from overlapping data (i.e. data sets including two or more characteristics that are also present </p>
         </div>
     </div>
 
