@@ -1,5 +1,5 @@
 ---
-title: for i, year in enumerate(years):
+title: Data Vizualization
 notebook: EDA.ipynb
 nav_include: 1
 ---
