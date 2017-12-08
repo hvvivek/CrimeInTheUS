@@ -70,7 +70,7 @@ For our models, we’ve used cross-validated ridge and lasso models. Additionall
 3. Added complications came from overlapping data (i.e. data sets including two or more characteristics that are also present 
 
 ## Results, Conclusions, and Future Work ##
-![Image of Results](Images/Model_Results.PNG)
+![Image of Results](Images/Model_Results.PNG)<br>
 We found that the Lasso model used on top of polynomial features performed the best on the test set. 
 Some of the significant features that were found in these models:
 1. **Race - Black and White:**
