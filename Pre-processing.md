@@ -1,11 +1,11 @@
 ---
 title: Pre-processing
 notebook: Pre-processing.ipynb
+nav_include: 1  
 ---
 
 ## Contents
 {:.no_toc}
-nav_include: 1  
 {: toc}
 
 
