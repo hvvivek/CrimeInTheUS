@@ -39,7 +39,7 @@ Our questions derive from our Literature Review (below):
 
 ## Literature Review/Related Work
 **Marriage and Crime**
-In an article we found around marriage and crime rates, the author mainly discusses the social/cultural effects of crime rates. 
+In an article we found around marriage and crime rates, the author mainly discusses the social/cultural effects of crime rates.<br> 
 Forrest, Walter. “Marriage Helps Reduce Crime.” The Conversation. Accessed December 7, 2017. [Marriage and Crime](http://theconversation.com/marriage-helps-reduce-crime-3576)
 
 **Real Estate and Crime**
@@ -51,13 +51,34 @@ In an article we found around marriage and crime rates, the author mainly discus
 Forrest, Walter. “Marriage Helps Reduce Crime.” The Conversation. Accessed December 7, 2017. [Firearms and Crime](http://theconversation.com/marriage-helps-reduce-crime-3576)
 
 **Income, Education and Crime**
+![Image of Results](Images/Income.png)
+>Murder rates usually take higher values at lower incomes per capita and per household
 In an article we found around marriage and crime rates, the author mainly discusses the social/cultural effects of crime rates. 
 Forrest, Walter. “Marriage Helps Reduce Crime.” The Conversation. Accessed December 7, 2017. [Income, Education and Crime](http://theconversation.com/marriage-helps-reduce-crime-3576)
 
+**Male to Female ratio**
+![Image of Results](Images/M2F.png)
+>Initial EDA pointed us to a possibility that a higher female to male ratio happens to correlate with higher murder rates.
+
 ## Modeling Approach and Project Trajectory
-Given the predictors are mostly (if not all) are continuous variables, we have decided to go with the linear regression models rather than the logistic regression. 
-With a basic linear regression as our baseline model, we also tested using a polynomial model (with and without interaction terms).
+Since murder rate is a continuous variable, we’ve decided to conduct a linear regression rather than a logistic regression. We’ve used the basic linear regression as our baseline model. 
+For our models, we’ve used cross-validated ridge and lasso models. Additionally, we’ve also modeled the linear regression, lasso, and ridge with polynomial features upto degree 2. Since we’ve found some collinearity between some of our predictors, we’ve also ran the linear, lasso, and ridge with interaction terms. In all of the models (other than the baseline), we’ve conducted the models with cross validation to further better our models on train and test sets.
 
-## Results, Conclusions, and Future Work
 
-Some of the complications we’ve faced include inconsistent MSA names across different years.  There were a significant amount of data that was missing from the census data that needed to be imputed. Some of the data sets found on the census bureau website were missing Puerto Rico. Added complications came from overlapping data (i.e. data sets including two or more characteristics that are also present 
+## Complications and Headhurters ##
+1. Some of the complications we’ve faced include inconsistent MSA names across different years.  
+2. There were a significant amount of data that was missing from the census data that needed to be imputed. Some of the data sets found on the census bureau website were missing Puerto Rico. 
+3. Added complications came from overlapping data (i.e. data sets including two or more characteristics that are also present 
+
+## Results, Conclusions, and Future Work ##
+![Image of Results](Images/Model_Results.png)
+We found that the Lasso model used on top of polynomial features performed the best on the test set. 
+Some of the significant features that were found in these models:
+1. **Race - Black and White:**
+    Race continues to be correlated strongly with crime in the US. Whether this holds a mirror to the bias is a deeper conversation and question and it needs to be asked. If we had more time, we would consider doing further research on the effect of bias in datasets like these.
+2. **Education and Income:**
+    Education and Income are also correlated with crime in the US. But the level of educaton in a community is not representative of the crime in the society. Further investigation is necessary to get more conclusive results.
+3. **Marital Status**:
+    Similar to education and income, marital status is correlated with crime (statistically significant). Whether this means any sort of causation is to be investigated.
+4. **Firearms**:
+    An interesting result was the value of the coefficient associated with features corresponding to firearms in MSA's. Though correlated significantly, it is much lower than most of the other featuress.
