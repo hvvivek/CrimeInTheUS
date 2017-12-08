@@ -5,7 +5,7 @@ notebook: Pre-processing.ipynb
 
 ## Contents
 {:.no_toc}
-*  
+nav_include: 1  
 {: toc}
 
 
