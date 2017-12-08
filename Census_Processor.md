@@ -1,5 +1,5 @@
 ---
-title: MERGE EDUCATION ATTAINMENT
+title: Census Processor
 notebook: Census_Processor.ipynb
 nav_include: 2
 ---

@@ -1,5 +1,5 @@
 ---
-title: Shorthand function to create axs of a certain size and ravel for easier graphing
+title: FBI Scraper
 notebook: FBI_Scraper.ipynb
 nav_include: 1
 ---

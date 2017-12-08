@@ -1,5 +1,5 @@
 ---
-title: census_data = hot_one_encoding(census_data, cat_vars)
+title: Data Models
 notebook: Data_Models.ipynb
 nav_include: 4
 ---
